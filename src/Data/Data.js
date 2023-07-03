@@ -14,6 +14,7 @@ import img1 from '../imgs/img1.png'
 import img2 from '../imgs/img2.png'
 import img3 from '../imgs/img3.png'
 
+// Sidebar Data
 export const SidebarData = [
     {   
         icon: UilEstate,
@@ -37,6 +38,7 @@ export const SidebarData = [
     },
 ];
 
+// Analysis Cards data
 export const CardsData = [
     {
         title: "Sales",
